@@ -1,0 +1,31 @@
+U4_PROJETO DE SOFTWARE AVANÇADO 
+
+Unidade 4- Aula 4 – Atividade Prática 4 
+
+2 - Principais benefícios que o time de desenvolvimento ganhará:
+
+A criação de um repositório remoto no GITHUB, para o desenvolvimento, dá vantagem e benefícios ao time de desenvolvimento,
+a ferramenta de gestão de configuração para as áreas da Estratégia, Governança, ITIL, COBIT e ESG (Environmental, Social and
+Governance), através do GIT, que é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software,
+mas que pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo,então precisamos desse controle para os requisitos,
+com o GIT, nos podemos fazer a criação de um repositório, e com um histórico completo das nossas atividades (commit) e com isso ter total acompanhamento das revisões de como anda o desenvolvimento dos requisitos.
+
+3 - Questionamento:
+
+Ao concluir minha prática, cheguei a conclusão da importância da utilização das ferramentas de gestão de configuração, 
+ao utilizar o GITHUB com a criação dos repositórios remotos para o gerenciamento dos artefatos, com relatórios, e arquivos de código, e o uso do GIT,
+O Git sendo um software livre, nos proporciona essa vantagem no desenvolvimento de software e gerenciamento na gestão de configuração, nos dando o total controle 
+dos históricos e controles do desenvolvimento dos requisítos, através das interações do usuário no dia a dia, podemos usar a experiência do usuário para 
+auxiliar na melhora do desenvolvimento do produto e dos protótipos, utilizando os detalhes dos usos e testes no decorrer do uso do produto, podemos fazer a coleta do feedback  
+e melhorar através disso, chegando ao nível desejado. Com as partes envolvidas do projeto e no produto, podemos considerar os elementos do (UX) e ter a sensibilidade 
+dialogando com as pessoas com o aplicativo, no momento com as experiências, com as ideias, motivações visões, ações e até sentimentos, podemos usar as críticas os questionamentos 
+qualquer comportamento pode ser essêncial e influenciar na melhora do produto. Devemos definir as Personas, os valores, estilos de vida, analisando cada pessoa envolvida 
+para concluir a fase de interação do usuário e fazer as melhorias para chegar no nível desejado do produto. Sobre a gestão de recursos e melhores práticas do gerenciamento da qualidade 
+conduzidas no projeto de software, através do PMBoK/PMI onde o foco é atender o que é melhor para o negócio, usamos técnicas estratégicas para gestão ágil com essas ferramentas 
+juntando o ágil ao preditivo, nos dá vantagem e dinâmica para a otimização das entregas, ajudando e beneficiando aos Stakeholders. Com o ITIL no gerenciamento da tecnologia 
+ele é muito aplicável por apresentar uma biblioteca e modelos para atender os diagnósticos dos recursos da TI, onde podemos aproveitar essa estrutura prática e flexível 
+alinhando aos recursos digitais, físicos e humanos. Com o COBIT sendo um framework podemos usar esse manual formado com boas práticas de governança de TI, seguindo 
+o padrão e tornando o trabalho mais fácil ao time. Com o uso do ESG e as medidas de governança recomendadas nos permite a antecipação dos riscos, assim aumentando a 
+chance de evitá-los, também mitigá-los, e estarmos preparados tendo respostas para as crises posteriores, com uso das métricas relacionadas aos investidores onde defendem 
+seus interesses financeiros e equilibrá-los, em um curto prazo com as preocupações ao meio ambiente, á sociedade que nos cerca e a ética dos négocios. para o foco 
+principal fortalecer a reputação da empresa, mantendo confiança do público evitando controvérsias e boicotes.
